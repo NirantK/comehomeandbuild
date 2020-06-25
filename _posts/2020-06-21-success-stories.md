@@ -6,8 +6,8 @@ description: Success Stories of those who've come back to India and happy with i
 categories: [markdown]
 title: Success Stories
 ---
-# Succes Stories
 
+## Stories from across the web of happy and content friends
 {% include info.html text="There are two sides to every story, here - we are cherry-picking just one side" %}
 
 ## Thread/Tweetstorm
