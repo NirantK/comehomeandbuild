@@ -1,1 +1,1 @@
-Sitemap: https://comehomeandbuild.com/comehomeandbuild/sitemap.xml
+Sitemap: http://comehomeandbuild.com/sitemap.xml
