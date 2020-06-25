@@ -1,13 +1,18 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hello!
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+This is a quick brew over a single cup of coffee to help those considering moving back to India make a more informed decision. This is inspired from the work of Hemant Mohapatra [@MohapatraHemant](https://twitter.com/MohapatraHemant)
 
+For instance:
+{%twitter https://twitter.com/MohapatraHemant/status/1276032036344442881}
 
+...and...
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+{%twitter https://twitter.com/MohapatraHemant/status/1144443734181810176}
+
+This is maintained by the community -- so please do tweet your finds to [@NirantK](twitter.com/NirantK)
