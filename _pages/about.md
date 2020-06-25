@@ -15,4 +15,4 @@ For instance:
 
 {%twitter https://twitter.com/MohapatraHemant/status/1144443734181810176 %}
 
-This is maintained by the community -- so please do tweet your finds to [@NirantK](twitter.com/NirantK)
+This is maintained by the community -- so please do tweet your finds to [@NirantK](https://twitter.com/NirantK)
